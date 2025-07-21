@@ -1,0 +1,14 @@
+---
+layout: none
+permalink: .well-known/assetlinks.json
+---
+
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "ru.farpost.dromfilter",
+    "sha256_cert_fingerprints":
+    ["A6:B2:9E:E9:1A:6F:3D:D4:6E:BA:A9:4B:3D:75:82:E5:DB:24:13:80:55:C6:07:81:28:9C:95:AF:9D:E6:5B:1C", "D4:BF:A4:A0:31:E0:C4:AB:A0:47:5F:33:11:23:2D:C7:8C:24:55:26:19:AF:D1:B4:29:28:37:5C:EE:76:7E:7C"]
+  }
+}]
